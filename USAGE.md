@@ -1,0 +1,3 @@
+- Glyphs live in `canon/` (one glyph per file).
+- Drift notes go in `drift/` with date-stamped entries.
+- Start with `canon/README.md` for doctrine overview.
